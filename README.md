@@ -1,5 +1,6 @@
 # Hadoop Installation on Windows (Single Node Setup)
 
+
 > **Prerequisite:** Hadoop requires **Java 1.8** installed on your system.
 
 ## 1. Check Java Version
